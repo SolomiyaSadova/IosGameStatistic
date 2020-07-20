@@ -108,7 +108,7 @@ class GameControllerTest {
 
     @Test
     @DisplayName("should respond with list of grossing games with some limit")
-    fun getGrossinGamesWithLimitTest() {
+    fun getGrossingGamesWithLimitTest() {
         val response = webTestClient
                 .get()
                 .uri("/grossing/limit?limit={limit}", 10)
