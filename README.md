@@ -1,14 +1,10 @@
 # IosGameStatistic
-
-- download Game Chart statistic from URLs
+- get game charts statistic from URLS
 - refresh database every hour
-- get all objects, or some number of objects
+- get game of some kind (FREE, PAID or GROSSING) and with some limit
 
-## Built with
-
+## Built with 
 - Kotlin
 - Maven
 - MongoDB
-- Spring 
-
-
+- Spring
