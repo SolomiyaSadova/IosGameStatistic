@@ -25,4 +25,6 @@ class GameService(val gameRepository: GameRepository) {
         }
     }
 
+    fun getGameByTypeAndLimit(gameType: GameType, limit: Long): Flux<Game>
+        = gameRepository.findByGameType(gameType).limitRequest(limit)
 }
