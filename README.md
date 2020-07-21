@@ -3,7 +3,7 @@
 - refresh database every hour
 - get game of some kind (FREE, PAID or GROSSING) and with some limit
 
-##Built with 
+## Built with 
 - Kotlin
 - Maven
 - MongoDB
