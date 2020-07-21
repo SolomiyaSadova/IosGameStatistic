@@ -2,7 +2,6 @@ package com.ralabs.gamestatistic.controller
 
 import com.ralabs.gamestatistic.models.Game
 import com.ralabs.gamestatistic.models.GameType
-import com.ralabs.gamestatistic.repository.GameRepository
 import com.ralabs.gamestatistic.service.GameService
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping
