@@ -8,5 +8,7 @@ data class GameResponse(
         @get:NotEmpty
         val artistName: String,
         @get:NotEmpty
-        val url: String
+        val url: String,
+        @get:NotEmpty
+        val releaseDate: String
 )

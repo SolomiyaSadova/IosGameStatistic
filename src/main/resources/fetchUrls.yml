@@ -1,0 +1,5 @@
+charts:
+  urls:
+    - https://rss.itunes.apple.com/api/v1/us/ios-apps/top-free/games/100/explicit.json
+    - https://rss.itunes.apple.com/api/v1/us/ios-apps/top-paid/games/100/explicit.json
+    - https://rss.itunes.apple.com/api/v1/us/ios-apps/top-grossing/all/100/explicit.json

@@ -16,16 +16,11 @@ class GameService(val gameRepository: GameRepository) {
 
     fun getGames(): Flux<Game> = gameRepository.findAll()
 
-    fun enumContains(name: String): Boolean {
-        return enumValues<GameType>().any { it.name == name }
-    }
-
     fun getGameTypeFromUrl(url: String): GameType {
-        var partsOfUrl = url.substringAfter("top-").substringBefore('/')
-        var gameTypeToUpperCase = partsOfUrl.toUpperCase()
-        return if (enumContains(gameTypeToUpperCase)) {
-            GameType.valueOf(gameTypeToUpperCase)
-        } else {
+        val gameType = url.toUpperCase().substringAfter("TOP-").substringBefore('/')
+        return try {
+            GameType.valueOf(gameType)
+        } catch (ex: IllegalArgumentException) {
             GameType.UNKNOWN
         }
     }

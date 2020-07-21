@@ -1,6 +1,7 @@
 package com.ralabs.gamestatistic
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
+import org.springframework.boot.builder.SpringApplicationBuilder
 import org.springframework.boot.runApplication
 import org.springframework.context.annotation.Bean
 import org.springframework.data.mongodb.repository.config.EnableReactiveMongoRepositories
@@ -24,6 +25,10 @@ open class DemoApplication {
 }
 
 fun main(args: Array<String>) {
-	runApplication<DemoApplication>(*args)
+	SpringApplicationBuilder(DemoApplication::class.java)
+			.properties("spring.config.name=application,fetchUrls")
+			.run(*args)
 }
+
+
 

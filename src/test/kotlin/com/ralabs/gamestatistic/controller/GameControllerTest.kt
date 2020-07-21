@@ -1,6 +1,8 @@
 package com.ralabs.gamestatistic.controller
 
+import com.ralabs.gamestatistic.DemoApplication
 import com.ralabs.gamestatistic.models.Game
+import com.ralabs.gamestatistic.models.GameType
 import org.junit.jupiter.api.*
 import org.junit.jupiter.api.Assertions.assertFalse
 import org.junit.jupiter.api.Assertions.assertTrue
@@ -8,16 +10,15 @@ import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.boot.web.server.LocalServerPort
 import org.springframework.http.MediaType
 import org.springframework.test.web.reactive.server.WebTestClient
-import org.springframework.web.reactive.function.BodyInserters
-import reactor.core.publisher.Mono
 import java.time.Duration
 import java.util.concurrent.TimeUnit
 
-
-@TestInstance(TestInstance.Lifecycle.PER_CLASS)
 @SpringBootTest(
+        classes = [DemoApplication::class],
+        properties = ["spring.config.name=application,fetchUrls"],
         webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT
 )
+@TestInstance(TestInstance.Lifecycle.PER_CLASS)
 class GameControllerTest {
 
     private val EXPECTED_FETCH_TIME_IN_SECONDS: Long = 5L
@@ -71,6 +72,7 @@ class GameControllerTest {
         assertFalse(response == null)
         assertTrue(response!!.isNotEmpty())
         assertTrue(response.size == EXPECTED_TOTAL_NUMBER_OF_CERTAIN_GAMES_Type)
+        response.forEach { assertTrue(it.gameType == GameType.PAID)}
     }
 
     @Test
@@ -88,6 +90,7 @@ class GameControllerTest {
         assertFalse(response == null)
         assertTrue(response!!.isNotEmpty())
         assertTrue(response.size == EXPECTED_TOTAL_NUMBER_OF_CERTAIN_GAMES_Type)
+        response.forEach { assertTrue(it.gameType == GameType.GROSSING)}
     }
     @Test
     @DisplayName("should respond with list of all free games")
@@ -104,6 +107,7 @@ class GameControllerTest {
         assertFalse(response == null)
         assertTrue(response!!.isNotEmpty())
         assertTrue(response.size == EXPECTED_TOTAL_NUMBER_OF_CERTAIN_GAMES_Type)
+        response.forEach { assertTrue(it.gameType == GameType.FREE)}
     }
 
     @Test
@@ -111,7 +115,7 @@ class GameControllerTest {
     fun getGrossingGamesWithLimitTest() {
         val response = webTestClient
                 .get()
-                .uri("/grossing/limit?limit={limit}", 10)
+                .uri("/grossing?limit={limit}", 10)
                 .exchange()
                 .expectHeader().contentType(MediaType.APPLICATION_JSON)
                 .expectStatus().isOk
@@ -121,6 +125,7 @@ class GameControllerTest {
         assertFalse(response == null)
         assertTrue(response!!.isNotEmpty())
         assertTrue(response.size == 10)
+        response.forEach { assertTrue(it.gameType == GameType.GROSSING)}
 
     }
     @Test
@@ -128,7 +133,7 @@ class GameControllerTest {
     fun getPaidGamesWithLimitTest() {
         val response = webTestClient
                 .get()
-                .uri("/paid/limit?limit={limit}", 12)
+                .uri("/paid?limit={limit}", 12)
                 .exchange()
                 .expectHeader().contentType(MediaType.APPLICATION_JSON)
                 .expectStatus().isOk
@@ -138,6 +143,7 @@ class GameControllerTest {
         assertFalse(response == null)
         assertTrue(response!!.isNotEmpty())
         assertTrue(response.size == 12)
+        response.forEach { assertTrue(it.gameType == GameType.PAID)}
 
     }
 
@@ -146,7 +152,7 @@ class GameControllerTest {
     fun getFreeGamesWithLimitTest() {
         val response = webTestClient
                 .get()
-                .uri("/free/limit?limit={limit}", 2)
+                .uri("/free?limit={limit}", 2)
                 .exchange()
                 .expectHeader().contentType(MediaType.APPLICATION_JSON)
                 .expectStatus().isOk
@@ -156,6 +162,7 @@ class GameControllerTest {
         assertFalse(response == null)
         assertTrue(response!!.isNotEmpty())
         assertTrue(response.size == 2)
+        response.forEach { assertTrue(it.gameType == GameType.FREE)}
 
     }
 }
