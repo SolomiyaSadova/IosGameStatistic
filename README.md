@@ -26,4 +26,5 @@ java -jar ./target/demo-0.0.1-SNAPSHOT.jar
 ## Additional info
 
 You can set URLs in /resources/fetchURLs file.
-Also you can set another time to refresh database. Make it in application.properties. Update 'delay.before.feed.games.to.database' value
+
+Also you can set another time to refresh database. Make it in application.properties. Update [delay.before.feed.games.to.database] value
