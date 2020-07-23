@@ -12,10 +12,10 @@
 ## Installation
 
 ```bash
-mvn springboot:run
+./mvnw springboot:run
 ```
 ```bash
-mvn package
+./mvnw clean package
 ```
 Run jar file
 
