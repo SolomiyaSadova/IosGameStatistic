@@ -23,6 +23,7 @@ class GameController(val gameService: GameService) {
     @GetMapping("/free")
     fun getFreeGames(@RequestParam(required = false, defaultValue = "100") limit: Long): Flux<Game> =
             gameService.getGameByTypeAndLimit(GameType.FREE, limit)
+    
     @GetMapping("/grossing")
     fun getGrossingGames(@RequestParam(required = false, defaultValue = "100") limit: Long): Flux<Game> =
             gameService.getGameByTypeAndLimit(GameType.GROSSING, limit)
