@@ -33,7 +33,7 @@ class GameControllerTest {
     fun setUp() {
         webTestClient = WebTestClient
                 .bindToServer()
-                .baseUrl("http://localhost:$port")
+                .baseUrl("http://localhost:$port/ios/charts/games")
                 .responseTimeout(Duration.ofMillis(20000))
                 .build()
     }
@@ -46,6 +46,7 @@ class GameControllerTest {
     fun getAllGamesTest() {
         val response = webTestClient
                 .get()
+                .uri("/")
                 .exchange()
                 .expectHeader().contentType(MediaType.APPLICATION_JSON)
                 .expectStatus().isOk
