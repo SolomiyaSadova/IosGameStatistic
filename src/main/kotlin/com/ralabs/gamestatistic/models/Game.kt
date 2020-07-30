@@ -36,6 +36,5 @@ data class Game(
 
         private fun parseReleaseDate(releaseDate: String): LocalDateTime? =
                 LocalDate.parse(releaseDate, dateTimeFormatter).atStartOfDay()
-
     }
 }
