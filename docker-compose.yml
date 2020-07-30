@@ -4,3 +4,9 @@ services:
     image: bitnami/mongodb:latest
     ports:
       - 27017:27017
+  app:
+    build: .
+    ports:
+      - 9093:9093
+    depends_on:
+      - mongodb
