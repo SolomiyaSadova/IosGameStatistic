@@ -21,6 +21,7 @@
 		<kotlin.compiler.incremental>true</kotlin.compiler.incremental>
 		<junit-jupiter.version>5.5.1</junit-jupiter.version>
 		<reactor-extra.version>3.2.0.RELEASE</reactor-extra.version>
+		<springdoc.version>1.4.3</springdoc.version>
 	</properties>
 
 	<dependencies>
@@ -96,27 +97,17 @@
 
 		<!--Swagger-->
 
-		<!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger2 -->
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger2</artifactId>
-			<version>3.0.0</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui -->
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger-ui</artifactId>
-			<version>3.0.0</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-webflux-ui -->
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-webflux-ui</artifactId>
-			<version>1.4.3</version>
+			<version>${springdoc.version}</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-kotlin</artifactId>
+			<version>${springdoc.version}</version>
+		</dependency>
 
 		<!-- tests -->
 
