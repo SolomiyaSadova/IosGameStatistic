@@ -1,4 +1,4 @@
-package com.ralabs.gamestatistic.service.domain
+package com.ralabs.gamestatistic.listeners.domain
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import javax.validation.constraints.NotEmpty

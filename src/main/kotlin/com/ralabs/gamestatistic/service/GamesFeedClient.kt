@@ -1,8 +1,8 @@
-package com.ralabs.gamestatistic.service
+package com.ralabs.gamestatistic.listeners
 
-import com.ralabs.gamestatistic.service.domain.GameChartResponse
-import com.ralabs.gamestatistic.service.domain.GameFeedResponse
-import com.ralabs.gamestatistic.service.domain.GameResponse
+import com.ralabs.gamestatistic.listeners.domain.GameChartResponse
+import com.ralabs.gamestatistic.listeners.domain.GameFeedResponse
+import com.ralabs.gamestatistic.listeners.domain.GameResponse
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service

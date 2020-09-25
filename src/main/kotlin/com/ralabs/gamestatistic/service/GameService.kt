@@ -1,21 +1,16 @@
-package com.ralabs.gamestatistic.service
+package com.ralabs.gamestatistic.listeners
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
 import com.ralabs.gamestatistic.models.Game
 import com.ralabs.gamestatistic.models.GameType
 import com.ralabs.gamestatistic.repository.GameRepository
-import com.ralabs.gamestatistic.service.domain.GameFeedResponse
-import com.ralabs.gamestatistic.service.domain.GameResponse
+import com.ralabs.gamestatistic.listeners.domain.GameFeedResponse
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 import reactor.core.publisher.Flux
-import reactor.core.publisher.Mono
 import java.io.File
-import java.net.URL
-import java.util.*
-import java.util.Optional.ofNullable
 
 
 @Service
@@ -33,7 +28,7 @@ class GameService(val gameRepository: GameRepository,
         return try {
             GameType.valueOf(gameType)
         } catch (ex: IllegalArgumentException) {
-            GameType.UNKNOWN
+            GameType.ALL
         }
     }
 

@@ -1,4 +1,4 @@
-package com.ralabs.gamestatistic.service
+package com.ralabs.gamestatistic.listeners
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.ralabs.gamestatistic.listener.domain.GameChartRequest
@@ -33,28 +33,24 @@ class RabbitMQSender(
     @Value("{rabbitmq.queue.free.request}")
     lateinit var freeGamesQueue: String
 
-    fun sendMessage(type: GameType?, limit: Long): Unit {
+    fun sendMessage(type: GameType, limit: Long): Unit {
 
-        if(type != null) {
-            val message = "Expected type of games - ${type.toString()}. Expected number of games - $limit"
-            when (type) {
-                GameType.PAID -> {
-                    rabbitTemplate.convertAndSend(exchange, paidGamesQueue, message)
-                }
-                GameType.FREE -> {
-                    rabbitTemplate.convertAndSend(exchange, freeGamesQueue, message)
-                }
-                GameType.GROSSING -> {
-                    rabbitTemplate.convertAndSend(exchange, grossingGamesQueue, message)
-                }
-                GameType.UNKNOWN -> log.info("The game type was not set correctly")
+        val message = convertToMessage(GameChartRequest(limit))
+        when (type) {
+            GameType.PAID -> {
+                rabbitTemplate.convertAndSend(exchange, paidGamesQueue, message)
             }
-        } else {
-            val message = convertToMessage(GameChartRequest(limit))
-            rabbitTemplate.convertAndSend(exchange, allGamesQueue, message)
+            GameType.FREE -> {
+                rabbitTemplate.convertAndSend(exchange, freeGamesQueue, message)
+            }
+            GameType.GROSSING -> {
+                rabbitTemplate.convertAndSend(exchange, grossingGamesQueue, message)
+            }
+            GameType.ALL -> {
+                rabbitTemplate.convertAndSend(exchange, allGamesQueue, message)
+            }
         }
 
-        log.info("Send msg to consumer with routingKey $allGamesQueue")
     }
 
     private fun convertToMessage(request: GameChartRequest): String =
