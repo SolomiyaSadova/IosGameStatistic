@@ -1,4 +1,4 @@
-package com.ralabs.gamestatistic.listeners
+package com.ralabs.gamestatistic.service
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.ralabs.gamestatistic.models.GameType
@@ -22,8 +22,7 @@ class ScheduledGameChartFileConsumer(
     @Scheduled(fixedDelayString = "\${delay.before.feed.games.to.database}")
     fun consumeCharts(): Unit {
         log.info("I am consuming charts from file")
-        for (gameType in GameType.values()) {
-            if (gameType != GameType.ALL) gameService.saveGamesFromFile(gameType)
-        }
+        val fileName = "games-to-initialize-db.json"
+        gameService.saveGamesFromFile(fileName, GameType.ALL)
     }
 }

@@ -1,0 +1,2953 @@
+{
+  "results": [
+    {
+      "artistName": "InnerSloth LLC",
+      "id": "1351168404",
+      "releaseDate": "2018-07-25",
+      "name": "FREE game",
+      "kind": "iosSoftware",
+      "copyright": "© Innersloth LLC",
+      "artistId": "957995279",
+      "artistUrl": "https://apps.apple.com/us/developer/innersloth-llc/id957995279",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/d5/14/a7/d514a7fb-69e6-7519-e753-2527d12939f1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/among-us/id1351168404"
+    },
+    {
+      "artistName": "Crazy Labs",
+      "id": "1526638009",
+      "releaseDate": "2020-08-26",
+      "name": "Acrylic Nails!",
+      "kind": "iosSoftware",
+      "copyright": "© Crazy Labs",
+      "artistId": "721307559",
+      "artistUrl": "https://apps.apple.com/us/developer/crazy-labs/id721307559",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/8d/b2/92/8db2922a-d9c7-f5f1-9749-d3f56643e999/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role Playing",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/acrylic-nails/id1526638009"
+    },
+    {
+      "artistName": "Arcadian Lab",
+      "id": "1528746985",
+      "releaseDate": "2020-08-27",
+      "name": "Police Quest",
+      "kind": "iosSoftware",
+      "copyright": "© arcadian lab",
+      "artistId": "1403244072",
+      "artistUrl": "https://apps.apple.com/us/developer/arcadian-lab/id1403244072",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/c9/13/c6/c913c6f2-000c-868a-2c7a-85150c659bcb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/police-quest/id1528746985"
+    },
+    {
+      "artistName": "Zynga Inc.",
+      "id": "1434505322",
+      "releaseDate": "2020-09-22",
+      "name": "Harry Potter: Puzzles & Spells",
+      "kind": "iosSoftware",
+      "copyright": "© Zynga Inc. 2020",
+      "artistId": "295913422",
+      "artistUrl": "https://apps.apple.com/us/developer/zynga-inc/id295913422",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/24/8a/58/248a58cd-e03a-69cc-e8df-37dc147310a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7009",
+          "name": "Family",
+          "url": "https://itunes.apple.com/us/genre/id7009"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/harry-potter-puzzles-spells/id1434505322"
+    },
+    {
+      "artistName": "miHoYo Limited",
+      "id": "1517783697",
+      "releaseDate": "2020-09-26",
+      "name": "New game_2",
+      "kind": "iosSoftware",
+      "copyright": "©miHoYo ALL RIGHTS RESERVED",
+      "artistId": "1286705195",
+      "artistUrl": "https://apps.apple.com/us/developer/mihoyo-limited/id1286705195",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/03/de/4803de34-08e8-f397-fbe2-c0feb44a89dc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role Playing",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        },
+        {
+          "genreId": "7002",
+          "name": "Adventure",
+          "url": "https://itunes.apple.com/us/genre/id7002"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/genshin-impact/id1517783697"
+    },
+    {
+      "artistName": "Lion Studios",
+      "id": "1502360847",
+      "releaseDate": "2020-03-30",
+      "name": "Stairway to Heaven !",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Lion Studios",
+      "artistId": "1362220666",
+      "artistUrl": "https://apps.apple.com/us/developer/lion-studios/id1362220666",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/e9/12/b9/e912b9d6-9b96-e9ce-b1a0-51561657b7f0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7018",
+          "name": "Trivia",
+          "url": "https://itunes.apple.com/us/genre/id7018"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/stairway-to-heaven/id1502360847"
+    },
+    {
+      "artistName": "Ivan De Cabo",
+      "id": "1090617661",
+      "releaseDate": "2016-03-24",
+      "name": "Steve - The Jumping Dinosaur!",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Ivan de Cabo",
+      "artistId": "969876933",
+      "artistUrl": "https://apps.apple.com/us/developer/ivan-de-cabo/id969876933",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/13/5a/30/135a30bb-d84d-6509-5bfd-7ed01a9a9720/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7009",
+          "name": "Family",
+          "url": "https://itunes.apple.com/us/genre/id7009"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/steve-the-jumping-dinosaur/id1090617661"
+    },
+    {
+      "artistName": "Smillage",
+      "id": "1516222058",
+      "releaseDate": "2020-06-02",
+      "name": "Puppy Town",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Smillage,Inc.",
+      "artistId": "1495130982",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/smillage/id1495130982",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/49/56/ae/4956aebb-03ad-ccd8-655a-9c948ac10552/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/puppy-town/id1516222058"
+    },
+    {
+      "artistName": "Voodoo",
+      "id": "1499118002",
+      "releaseDate": "2020-02-15",
+      "name": "Cube Surfer!",
+      "kind": "iosSoftware",
+      "copyright": "© Atinon Studio",
+      "artistId": "714804730",
+      "artistUrl": "https://apps.apple.com/us/developer/voodoo/id714804730",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/76/56/6c/76566c7a-198f-8da1-f5b4-23f6e6ceca28/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "7002",
+          "name": "Adventure",
+          "url": "https://itunes.apple.com/us/genre/id7002"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/cube-surfer/id1499118002"
+    },
+    {
+      "artistName": "Unico Studio LLC",
+      "id": "1531582123",
+      "releaseDate": "2020-09-21",
+      "name": "Who is? Brain Teaser & Riddles",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Unico Studio LLC",
+      "artistId": "1467451326",
+      "artistUrl": "https://apps.apple.com/us/developer/unico-studio-llc/id1467451326",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/0d/6b/02/0d6b028a-fbba-959b-6a09-fe8a1e450a49/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7018",
+          "name": "Trivia",
+          "url": "https://itunes.apple.com/us/genre/id7018"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/who-is-brain-teaser-riddles/id1531582123"
+    },
+    {
+      "artistName": "Roblox Corporation",
+      "id": "431946152",
+      "releaseDate": "2011-05-26",
+      "name": "Roblox",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Roblox Corporation",
+      "artistId": "431946155",
+      "artistUrl": "https://apps.apple.com/us/developer/roblox-corporation/id431946155",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/64/25/d86425c0-c635-cdb5-6ba8-1b6ee51456c9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7002",
+          "name": "Adventure",
+          "url": "https://itunes.apple.com/us/genre/id7002"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/roblox/id431946152"
+    },
+    {
+      "artistName": "Sybo Games ApS",
+      "id": "512939461",
+      "releaseDate": "2012-05-24",
+      "name": "Subway Surfers",
+      "kind": "iosSoftware",
+      "copyright": "© Kiloo & Sybo 2012 - 2020",
+      "artistId": "471259040",
+      "artistUrl": "https://apps.apple.com/us/developer/sybo-games-aps/id471259040",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/32/ae/77/32ae7767-4320-802c-1817-ea1878e3d2b8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/subway-surfers/id512939461"
+    },
+    {
+      "artistName": "Electronic Arts",
+      "id": "1512265589",
+      "releaseDate": "2020-08-04",
+      "name": "Madden NFL 21 Mobile Football",
+      "kind": "iosSoftware",
+      "copyright": "©2020 Electronic Arts Inc. All Rights Reserved.",
+      "artistId": "284800461",
+      "artistUrl": "https://apps.apple.com/us/developer/electronic-arts/id284800461",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1d/94/f8/1d94f849-828b-1cfd-8cff-07615cc16127/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7016",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id7016"
+        },
+        {
+          "genreId": "6004",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id6004"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/madden-nfl-21-mobile-football/id1512265589"
+    },
+    {
+      "artistName": "Activision Publishing, Inc.",
+      "id": "1287282214",
+      "releaseDate": "2019-09-30",
+      "name": "Call of Duty®: Mobile",
+      "kind": "iosSoftware",
+      "copyright": "© 2019 Activision Publishing, Inc.",
+      "artistId": "285005466",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/activision-publishing-inc/id285005466",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/3c/6f/8f/3c6f8f85-9b89-71eb-0549-fc6ea6586683/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214"
+    },
+    {
+      "artistName": "Alpha Potato LLC",
+      "id": "1511472595",
+      "releaseDate": "2020-05-28",
+      "name": "Pawn Shop Master",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Alpha Potato LLC",
+      "artistId": "1489600436",
+      "artistUrl": "https://apps.apple.com/us/developer/alpha-potato-llc/id1489600436",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f5/05/3d/f5053d1d-ae8e-fe05-172e-d99eaedd98c0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/pawn-shop-master/id1511472595"
+    },
+    {
+      "artistName": "Ducky",
+      "id": "1511161986",
+      "releaseDate": "2020-05-29",
+      "name": "Mr. Slice",
+      "kind": "iosSoftware",
+      "copyright": "© HYPERHUG LTD",
+      "artistId": "1503009878",
+      "artistUrl": "https://apps.apple.com/us/developer/ducky/id1503009878",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/69/a0/53/69a05349-22ef-d7f0-4a55-f9985d202a60/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7002",
+          "name": "Adventure",
+          "url": "https://itunes.apple.com/us/genre/id7002"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/mr-slice/id1511161986"
+    },
+    {
+      "artistName": "SUPERSONIC STUDIOS LTD",
+      "id": "1499812410",
+      "releaseDate": "2020-02-23",
+      "name": "Join Clash",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Freeplay Inc",
+      "artistId": "1499845738",
+      "artistUrl": "https://apps.apple.com/us/developer/supersonic-studios-ltd/id1499845738",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/12/45/bd/1245bd89-cb4c-6815-77fa-b626429145c7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/join-clash/id1499812410"
+    },
+    {
+      "artistName": "Good Job Games",
+      "id": "1526814040",
+      "releaseDate": "2020-08-15",
+      "name": "Color Roll 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Good Job Games",
+      "artistId": "1191495496",
+      "artistUrl": "https://apps.apple.com/us/developer/good-job-games/id1191495496",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/4d/2e/33/4d2e3371-179a-593a-ba5a-a44355f24701/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/color-roll-3d/id1526814040"
+    },
+    {
+      "artistName": "Amanotes Pte. Ltd.",
+      "id": "1495142212",
+      "releaseDate": "2020-02-03",
+      "name": "Beat Blader 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Amanotes Pte Ltd",
+      "artistId": "1441389613",
+      "artistUrl": "https://apps.apple.com/us/developer/amanotes-pte-ltd/id1441389613",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/3b/92/9b/3b929bfe-5778-a502-26e2-8c90fdfcec47/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "6011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id6011"
+        },
+        {
+          "genreId": "7011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id7011"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/beat-blader-3d/id1495142212"
+    },
+    {
+      "artistName": "Mobile Deluxe",
+      "id": "645704840",
+      "releaseDate": "2013-10-29",
+      "name": "Solitaire Deluxe® 2",
+      "kind": "iosSoftware",
+      "copyright": "© 2013-2020, GOSUB 60, Inc.",
+      "artistId": "307183308",
+      "artistUrl": "https://apps.apple.com/us/developer/mobile-deluxe/id307183308",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/4b/67/cf/4b67cfcc-7668-0586-d134-95cd06264e7c/AppIcon_Sol5-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7009",
+          "name": "Family",
+          "url": "https://itunes.apple.com/us/genre/id7009"
+        },
+        {
+          "genreId": "7005",
+          "name": "Card",
+          "url": "https://itunes.apple.com/us/genre/id7005"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/solitaire-deluxe-2/id645704840"
+    },
+    {
+      "artistName": "Green Panda Games",
+      "id": "1497263321",
+      "releaseDate": "2020-03-25",
+      "name": "9 Months",
+      "kind": "iosSoftware",
+      "copyright": "© Funcell Games Pvt Ltd",
+      "artistId": "669978473",
+      "artistUrl": "https://apps.apple.com/us/developer/green-panda-games/id669978473",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/02/c6/3c/02c63c1e-2d50-a095-7cca-ba5a7d70ee79/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        },
+        {
+          "genreId": "7009",
+          "name": "Family",
+          "url": "https://itunes.apple.com/us/genre/id7009"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/9-months/id1497263321"
+    },
+    {
+      "artistName": "Amanotes Pte. Ltd.",
+      "id": "1344702806",
+      "releaseDate": "2018-03-06",
+      "name": "Tiles Hop - EDM Rush",
+      "kind": "iosSoftware",
+      "copyright": "© AMANOTES PTE. LTD.",
+      "artistId": "1441389613",
+      "artistUrl": "https://apps.apple.com/us/developer/amanotes-pte-ltd/id1441389613",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/9b/8d/ca9b8d16-5a27-6736-5da9-33f3dc51d2f5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id7011"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/tiles-hop-edm-rush/id1344702806"
+    },
+    {
+      "artistName": "Small Beautiful",
+      "id": "1528539994",
+      "releaseDate": "2020-08-28",
+      "name": "RacerKing",
+      "kind": "iosSoftware",
+      "copyright": "© Small Beautiful 2020",
+      "artistId": "1434562942",
+      "artistUrl": "https://apps.apple.com/us/developer/small-beautiful/id1434562942",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/9e/dd/db/9edddb68-805c-e579-35a1-9bfc052c59e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7013",
+          "name": "Racing",
+          "url": "https://itunes.apple.com/us/genre/id7013"
+        },
+        {
+          "genreId": "7016",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id7016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/racerking/id1528539994"
+    },
+    {
+      "artistName": "Good Job Games",
+      "id": "1527286174",
+      "releaseDate": "2020-08-28",
+      "name": "House Life 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Good Job Games",
+      "artistId": "1191495496",
+      "artistUrl": "https://apps.apple.com/us/developer/good-job-games/id1191495496",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/11/ec/3f/11ec3f21-48f0-fae9-32dc-a63994629008/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/house-life-3d/id1527286174"
+    },
+    {
+      "artistName": "Crazy Labs",
+      "id": "1518806009",
+      "releaseDate": "2020-06-27",
+      "name": "I can Paint",
+      "kind": "iosSoftware",
+      "copyright": "© Crazy Labs",
+      "artistId": "721307559",
+      "artistUrl": "https://apps.apple.com/us/developer/crazy-labs/id721307559",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/2e/01/51/2e01519f-df05-24da-1ce8-3578762c890e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/i-can-paint/id1518806009"
+    },
+    {
+      "artistName": "Moon Active",
+      "id": "406889139",
+      "releaseDate": "2010-12-11",
+      "name": "Coin Master",
+      "kind": "iosSoftware",
+      "copyright": "© Moon Active",
+      "artistId": "470556954",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/moon-active/id470556954",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/8c/c8/7b/8cc87b18-8404-17c5-cb66-760af89181fd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7002",
+          "name": "Adventure",
+          "url": "https://itunes.apple.com/us/genre/id7002"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/coin-master/id406889139"
+    },
+    {
+      "artistName": "Super Lucky Games LLC",
+      "id": "1299956969",
+      "releaseDate": "2017-12-06",
+      "name": "Word Collect: Word Games",
+      "kind": "iosSoftware",
+      "copyright": "© 2018 Platinum Player LLC",
+      "artistId": "1275177033",
+      "artistUrl": "https://apps.apple.com/us/developer/super-lucky-games-llc/id1275177033",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/cc/26/0b/cc260b5d-bb29-a639-88fe-b802e11bbcbd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6017",
+          "name": "Education",
+          "url": "https://itunes.apple.com/us/genre/id6017"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7019",
+          "name": "Word",
+          "url": "https://itunes.apple.com/us/genre/id7019"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/word-collect-word-games/id1299956969"
+    },
+    {
+      "artistName": "Halfbrick Studios",
+      "id": "403858572",
+      "releaseDate": "2010-12-20",
+      "name": "Fruit Ninja®",
+      "kind": "iosSoftware",
+      "copyright": "© 2011 Halfbrick Studios",
+      "artistId": "356994313",
+      "artistUrl": "https://apps.apple.com/us/developer/halfbrick-studios/id356994313",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/44/73/6e/44736e6a-167e-cd62-9c46-7e663e53ae5a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/fruit-ninja/id403858572"
+    },
+    {
+      "artistName": "Rollic Games",
+      "id": "1512799121",
+      "releaseDate": "2020-05-14",
+      "name": "Tangle Master 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Rollic 2019",
+      "artistId": "1452111779",
+      "artistUrl": "https://apps.apple.com/us/developer/rollic-games/id1452111779",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/3c/f3/7d/3cf37df7-fff3-e9cf-80ff-25e2fac2ca6b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7004",
+          "name": "Board",
+          "url": "https://itunes.apple.com/us/genre/id7004"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/tangle-master-3d/id1512799121"
+    },
+    {
+      "artistName": "Crazy Labs",
+      "id": "1514604864",
+      "releaseDate": "2020-06-10",
+      "name": "Tie Dye",
+      "kind": "iosSoftware",
+      "copyright": "© Crazy Labs",
+      "artistId": "721307559",
+      "artistUrl": "https://apps.apple.com/us/developer/crazy-labs/id721307559",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/89/c8/dd/89c8ddec-0cf4-b48f-1f9b-fcfe4cbc09ba/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role Playing",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/tie-dye/id1514604864"
+    },
+    {
+      "artistName": "Gabriel Figueiredo",
+      "id": "1511646233",
+      "releaseDate": "2020-05-06",
+      "name": "Papers Grade, Please!",
+      "kind": "iosSoftware",
+      "copyright": "© Hyper Dive Studio - 2020",
+      "artistId": "1488007643",
+      "artistUrl": "https://apps.apple.com/us/developer/gabriel-figueiredo/id1488007643",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/3d/e1/a6/3de1a6b4-de57-3b5d-b520-57e243f6a811/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/papers-grade-please/id1511646233"
+    },
+    {
+      "artistName": "Niantic, Inc.",
+      "id": "1094591345",
+      "releaseDate": "2016-07-07",
+      "name": "Pokémon GO",
+      "kind": "iosSoftware",
+      "copyright": "© 2016-2018 Niantic, Inc. © 2016-2018 Pokémon. © 1995-2018 Nintendo/Creatures Inc./GAME FREAK inc.",
+      "artistId": "1037205060",
+      "artistUrl": "https://apps.apple.com/us/developer/niantic-inc/id1037205060",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/80/41/94/8041940b-f648-9379-4a52-3ceee78f0e1c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7017",
+          "name": "Strategy",
+          "url": "https://itunes.apple.com/us/genre/id7017"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role Playing",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        },
+        {
+          "genreId": "6013",
+          "name": "Health & Fitness",
+          "url": "https://itunes.apple.com/us/genre/id6013"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345"
+    },
+    {
+      "artistName": "Loop Games Oyun Teknolojileri Anonim Sirketi",
+      "id": "1502447854",
+      "releaseDate": "2020-05-05",
+      "name": "Match 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Loop Games",
+      "artistId": "1468099707",
+      "artistUrl": "https://apps.apple.com/us/developer/loop-games-oyun-teknolojileri-anonim-sirketi/id1468099707",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/86/ee/85/86ee85f1-d6b9-7900-f3fd-4b34d606e29c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7004",
+          "name": "Board",
+          "url": "https://itunes.apple.com/us/genre/id7004"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/match-3d/id1502447854"
+    },
+    {
+      "artistName": "Voodoo",
+      "id": "1518267642",
+      "releaseDate": "2020-06-30",
+      "name": "Scribble Rider",
+      "kind": "iosSoftware",
+      "copyright": "© Tapped Ltd",
+      "artistId": "714804730",
+      "artistUrl": "https://apps.apple.com/us/developer/voodoo/id714804730",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/e0/83/c9/e083c98c-ae4e-5574-a0b4-082629df5fc0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/scribble-rider/id1518267642"
+    },
+    {
+      "artistName": "Press Play Inc.",
+      "id": "1507189832",
+      "releaseDate": "2020-05-01",
+      "name": "Press Play Slots - Win Money!",
+      "kind": "iosSoftware",
+      "copyright": "© Press Play Inc. 2020",
+      "artistId": "1444682334",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/press-play-inc/id1444682334",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/33/fa/86/33fa863c-6231-d885-a9ca-9f65f352bebd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7006",
+          "name": "Casino",
+          "url": "https://itunes.apple.com/us/genre/id7006"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/press-play-slots-win-money/id1507189832"
+    },
+    {
+      "artistName": "Reworks",
+      "id": "1413287364",
+      "releaseDate": "2020-04-10",
+      "name": "Redecor - Home Design Makeover",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Reworks Ltd",
+      "artistId": "1413287363",
+      "artistUrl": "https://apps.apple.com/us/developer/reworks/id1413287363",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/ea/25/c9/ea25c953-e565-39ee-2b36-2828b5e39b41/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/redecor-home-design-makeover/id1413287364"
+    },
+    {
+      "artistName": "Popcore GmbH",
+      "id": "1498229533",
+      "releaseDate": "2020-02-08",
+      "name": "Parking Jam 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Popcore GmbH",
+      "artistId": "1375461777",
+      "artistUrl": "https://apps.apple.com/us/developer/popcore-gmbh/id1375461777",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ae/1c/3b/ae1c3b71-b12a-76b4-2485-067edcf9745d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7004",
+          "name": "Board",
+          "url": "https://itunes.apple.com/us/genre/id7004"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/parking-jam-3d/id1498229533"
+    },
+    {
+      "artistName": "Color Switch Phoenix, LLC",
+      "id": "1314725881",
+      "releaseDate": "2018-05-23",
+      "name": "Color Switch",
+      "kind": "iosSoftware",
+      "copyright": "© 2015-2020 Color Switch Productions, Inc.",
+      "artistId": "1453601863",
+      "artistUrl": "https://apps.apple.com/us/developer/color-switch-phoenix-llc/id1453601863",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/12/2d/05/122d0570-d521-5044-1ffe-23bb2700faf4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/color-switch/id1314725881"
+    },
+    {
+      "artistName": "Amanotes Pte. Ltd.",
+      "id": "1443446174",
+      "releaseDate": "2018-12-15",
+      "name": "Magic Tiles 3: Piano Game",
+      "kind": "iosSoftware",
+      "copyright": "© 2018 Amanotes Copyright",
+      "artistId": "1441389613",
+      "artistUrl": "https://apps.apple.com/us/developer/amanotes-pte-ltd/id1441389613",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/8a/1e/d6/8a1ed69e-101e-da04-71f2-0e577a4fb040/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id6011"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id7011"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/magic-tiles-3-piano-game/id1443446174"
+    },
+    {
+      "artistName": "Miniclip.com",
+      "id": "1502383491",
+      "releaseDate": "2020-09-22",
+      "name": "Mini Football - Mobile soccer",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Miniclip SA",
+      "artistId": "337457683",
+      "artistUrl": "https://apps.apple.com/us/developer/miniclip-com/id337457683",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/74/9a/6f/749a6f17-0554-4096-7b60-9efc267013db/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7016",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id7016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/mini-football-mobile-soccer/id1502383491"
+    },
+    {
+      "artistName": "Voodoo",
+      "id": "1499255972",
+      "releaseDate": "2020-07-16",
+      "name": "Demolish!",
+      "kind": "iosSoftware",
+      "copyright": "Copyright © 2020 Light Beam",
+      "artistId": "714804730",
+      "artistUrl": "https://apps.apple.com/us/developer/voodoo/id714804730",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/d8/c9/5c/d8c95c82-d514-4c8d-a471-33fc203fbb81/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/demolish/id1499255972"
+    },
+    {
+      "artistName": "FlashRead Inc.",
+      "id": "1525710248",
+      "releaseDate": "2020-08-03",
+      "name": "Piercing Parlor",
+      "kind": "iosSoftware",
+      "copyright": "© FlashRead Inc",
+      "artistId": "1451492461",
+      "artistUrl": "https://apps.apple.com/us/developer/flashread-inc/id1451492461",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/7f/91/01/7f9101ea-ede8-5b3d-d21d-c842f211014d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/piercing-parlor/id1525710248"
+    },
+    {
+      "artistName": "KAYAC Inc.",
+      "id": "1481293953",
+      "releaseDate": "2019-09-26",
+      "name": "Park Master",
+      "kind": "iosSoftware",
+      "copyright": "© Kayac Inc.",
+      "artistId": "315952203",
+      "artistUrl": "https://apps.apple.com/us/developer/kayac-inc/id315952203",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f9/4a/0e/f94a0edc-b582-f98d-c6be-8c7f1a3db1e8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/park-master/id1481293953"
+    },
+    {
+      "artistName": "Episode Interactive",
+      "id": "656971078",
+      "releaseDate": "2013-12-18",
+      "name": "Episode - Choose Your Story",
+      "kind": "iosSoftware",
+      "copyright": "© 2013 Episode Interactive, LLC",
+      "artistId": "761807761",
+      "artistUrl": "https://apps.apple.com/us/developer/episode-interactive/id761807761",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/0f/b3/ca/0fb3ca52-9713-1f14-92d1-3eeb1344d108/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role Playing",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/episode-choose-your-story/id656971078"
+    },
+    {
+      "artistName": "King",
+      "id": "553834731",
+      "releaseDate": "2012-11-14",
+      "name": "Candy Crush Saga",
+      "kind": "iosSoftware",
+      "copyright": "© King.com Limited 2011-2020. All rights reserved.",
+      "artistId": "526656015",
+      "artistUrl": "https://apps.apple.com/us/developer/king/id526656015",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/4e/21/50/4e215052-29b6-150f-ef1a-b38f98355aee/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/candy-crush-saga/id553834731"
+    },
+    {
+      "artistName": "Azur Interactive Games Limited",
+      "id": "1456732568",
+      "releaseDate": "2019-03-28",
+      "name": "Stack Ball 3D",
+      "kind": "iosSoftware",
+      "copyright": "© AZUR INTERACTIVE GAMES 2019",
+      "artistId": "1296347323",
+      "artistUrl": "https://apps.apple.com/us/developer/azur-interactive-games-limited/id1296347323",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/9e/dc/66/9edc6633-9c30-c861-0f8c-f3b2f4368e78/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/stack-ball-3d/id1456732568"
+    },
+    {
+      "artistName": "N3TWORK Inc.",
+      "id": "1491074310",
+      "releaseDate": "2020-01-22",
+      "name": "Tetris®",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 N3TWORK Inc.",
+      "artistId": "766104536",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/n3twork-inc/id766104536",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/d5/1e/48d51ede-f88c-728f-e11b-4e8cb24bc10e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7017",
+          "name": "Strategy",
+          "url": "https://itunes.apple.com/us/genre/id7017"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/tetris/id1491074310"
+    },
+    {
+      "artistName": "Playrix",
+      "id": "1105855019",
+      "releaseDate": "2016-08-25",
+      "name": "Gardenscapes",
+      "kind": "iosSoftware",
+      "copyright": "© 2016 Playrix",
+      "artistId": "1162116447",
+      "artistUrl": "https://apps.apple.com/us/developer/playrix/id1162116447",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/7d/fb/ff/7dfbff3d-996c-4fd4-2946-e73d84889336/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/gardenscapes/id1105855019"
+    },
+    {
+      "artistName": "Crazy Labs",
+      "id": "1513557574",
+      "releaseDate": "2020-06-03",
+      "name": "Foot Clinic - ASMR Feet Care",
+      "kind": "iosSoftware",
+      "copyright": "© Crazy Labs",
+      "artistId": "721307559",
+      "artistUrl": "https://apps.apple.com/us/developer/crazy-labs/id721307559",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4d/8e/c9/4d8ec9ba-d211-1168-23ba-8604967f6d94/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role Playing",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/foot-clinic-asmr-feet-care/id1513557574"
+    },
+    {
+      "artistName": "Candywriter, LLC",
+      "id": "1374403536",
+      "releaseDate": "2018-09-30",
+      "name": "BitLife - Life Simulator",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Candywriter, LLC",
+      "artistId": "284954685",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/candywriter-llc/id284954685",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/00/23/85/002385ad-b1d9-f522-7aef-b9b6971fb8d8/AppIcon-a16-0-0-1x_U007emarketing-0-0-0-6-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role Playing",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/bitlife-life-simulator/id1374403536"
+    },
+    {
+      "artistName": "Mattel163 Limited",
+      "id": "1344700142",
+      "releaseDate": "2018-11-15",
+      "name": "UNO!™",
+      "kind": "iosSoftware",
+      "copyright": "© 2018-2020 Mattel163 Limited",
+      "artistId": "1344700141",
+      "artistUrl": "https://apps.apple.com/us/developer/mattel163-limited/id1344700141",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/1f/e1/4a/1fe14af6-18ff-fd5d-2009-25c890c913f5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7005",
+          "name": "Card",
+          "url": "https://itunes.apple.com/us/genre/id7005"
+        },
+        {
+          "genreId": "7009",
+          "name": "Family",
+          "url": "https://itunes.apple.com/us/genre/id7009"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/uno/id1344700142"
+    },
+    {
+      "artistName": "Voodoo",
+      "id": "1492451796",
+      "releaseDate": "2019-12-20",
+      "name": "Woodturning 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Copyright (c) 2019 VOODOO SAS. All Rights Reserved",
+      "artistId": "714804730",
+      "artistUrl": "https://apps.apple.com/us/developer/voodoo/id714804730",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/06/ef/f706effa-8759-2944-447e-ed8d042ce5dd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/woodturning-3d/id1492451796"
+    },
+    {
+      "artistName": "Nintendo Co., Ltd.",
+      "id": "1293634699",
+      "releaseDate": "2019-09-25",
+      "name": "Mario Kart Tour",
+      "kind": "iosSoftware",
+      "copyright": "© 2019 Nintendo",
+      "artistId": "1062496488",
+      "artistUrl": "https://apps.apple.com/us/developer/nintendo-co-ltd/id1062496488",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/48/1d/27/481d2718-96bd-e50c-2919-ecb8ff66e3fc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "7013",
+          "name": "Racing",
+          "url": "https://itunes.apple.com/us/genre/id7013"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/mario-kart-tour/id1293634699"
+    },
+    {
+      "artistName": "Amanotes Pte. Ltd.",
+      "id": "1492267122",
+      "releaseDate": "2020-02-16",
+      "name": "Game of Songs - Music Gamehub",
+      "kind": "iosSoftware",
+      "copyright": "© Copyright (c) 2019, Amanotes.",
+      "artistId": "1441389613",
+      "artistUrl": "https://apps.apple.com/us/developer/amanotes-pte-ltd/id1441389613",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/f4/43/b5/f443b5a8-262f-a87d-9be3-59ca8380f74e/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id7011"
+        },
+        {
+          "genreId": "6011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id6011"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/game-of-songs-music-gamehub/id1492267122"
+    },
+    {
+      "artistName": "Lion Studios",
+      "id": "1522861493",
+      "releaseDate": "2020-07-25",
+      "name": "Fruit Clinic",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Lion Studios",
+      "artistId": "1362220666",
+      "artistUrl": "https://apps.apple.com/us/developer/lion-studios/id1362220666",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/be/e3/73/bee3731d-106d-1b31-8fcb-99b203bea943/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/fruit-clinic/id1522861493"
+    },
+    {
+      "artistName": "Zynga Inc.",
+      "id": "593715088",
+      "releaseDate": "2013-01-30",
+      "name": "Solitaire·",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Zynga Inc.",
+      "artistId": "295913422",
+      "artistUrl": "https://apps.apple.com/us/developer/zynga-inc/id295913422",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/2c/ea/88/2cea8812-5665-a1ab-650f-120cdfc547c1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7005",
+          "name": "Card",
+          "url": "https://itunes.apple.com/us/genre/id7005"
+        },
+        {
+          "genreId": "7006",
+          "name": "Casino",
+          "url": "https://itunes.apple.com/us/genre/id7006"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/solitaire/id593715088"
+    },
+    {
+      "artistName": "Tencent Mobile International Limited",
+      "id": "1330123889",
+      "releaseDate": "2018-03-19",
+      "name": "PUBG MOBILE - NEW ERA",
+      "kind": "iosSoftware",
+      "copyright": "© Shenzhen Tencent Computer Systems Comany Limited",
+      "artistId": "504515421",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/tencent-mobile-international-limited/id504515421",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/45/e8/b0/45e8b0aa-39ac-4e72-c8b6-3360a68f217f/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "7017",
+          "name": "Strategy",
+          "url": "https://itunes.apple.com/us/genre/id7017"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/pubg-mobile-new-era/id1330123889"
+    },
+    {
+      "artistName": "Gismart",
+      "id": "1513882375",
+      "releaseDate": "2020-05-21",
+      "name": "Foil Turning 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Foil Turning",
+      "artistId": "666830030",
+      "artistUrl": "https://apps.apple.com/us/developer/gismart/id666830030",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/81/0a/9e/810a9e2e-9fdf-901c-38d8-d3f3adcdc515/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/foil-turning-3d/id1513882375"
+    },
+    {
+      "artistName": "Miniclip.com",
+      "id": "543186831",
+      "releaseDate": "2013-02-27",
+      "name": "8 Ball Pool™",
+      "kind": "iosSoftware",
+      "copyright": "© 2013 Miniclip SA",
+      "artistId": "337457683",
+      "artistUrl": "https://apps.apple.com/us/developer/miniclip-com/id337457683",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/43/cc/f6/43ccf6b2-d3af-7287-cb9b-69b1dce7c579/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7016",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id7016"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/8-ball-pool/id543186831"
+    },
+    {
+      "artistName": "Super Lucky Games LLC",
+      "id": "1508418993",
+      "releaseDate": "2020-06-19",
+      "name": "Trivia Star: Trivia Games Quiz",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Super Lucky Games LLC",
+      "artistId": "1275177033",
+      "artistUrl": "https://apps.apple.com/us/developer/super-lucky-games-llc/id1275177033",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/9f/3d/df/9f3ddfab-6ace-f915-796d-66b2ce3e17f3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6017",
+          "name": "Education",
+          "url": "https://itunes.apple.com/us/genre/id6017"
+        },
+        {
+          "genreId": "7009",
+          "name": "Family",
+          "url": "https://itunes.apple.com/us/genre/id7009"
+        },
+        {
+          "genreId": "7018",
+          "name": "Trivia",
+          "url": "https://itunes.apple.com/us/genre/id7018"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/trivia-star-trivia-games-quiz/id1508418993"
+    },
+    {
+      "artistName": "Ubisoft",
+      "id": "1491520571",
+      "releaseDate": "2020-08-04",
+      "name": "Brawlhalla",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Blue Mammoth Games. All Rights Reserved. Brawlhalla is a registered or unregistered trademark of Blue Mammoth Games in the US and/or other countries.",
+      "artistId": "317644720",
+      "artistUrl": "https://apps.apple.com/us/developer/ubisoft/id317644720",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/ff/5d/3b/ff5d3b7b-a900-be35-c4f6-c9f85672f9ab/AppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/brawlhalla/id1491520571"
+    },
+    {
+      "artistName": "Voodoo",
+      "id": "1524476880",
+      "releaseDate": "2020-07-22",
+      "name": "Type Run",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Voodoo",
+      "artistId": "714804730",
+      "artistUrl": "https://apps.apple.com/us/developer/voodoo/id714804730",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/a1/f5/9b/a1f59ba7-166c-9ec7-def2-cc5597f999ed/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7013",
+          "name": "Racing",
+          "url": "https://itunes.apple.com/us/genre/id7013"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/type-run/id1524476880"
+    },
+    {
+      "artistName": "SUPERSONIC STUDIOS LTD",
+      "id": "1487614236",
+      "releaseDate": "2020-06-02",
+      "name": "Bazooka Boy",
+      "kind": "iosSoftware",
+      "copyright": "©2020 Lightneer",
+      "artistId": "1499845738",
+      "artistUrl": "https://apps.apple.com/us/developer/supersonic-studios-ltd/id1499845738",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/3c/1d/12/3c1d12fe-479d-1b2f-afab-b887dc61f4b3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/bazooka-boy/id1487614236"
+    },
+    {
+      "artistName": "Rollic Games",
+      "id": "1502839598",
+      "releaseDate": "2020-03-16",
+      "name": "Build Roads",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Reboot",
+      "artistId": "1452111779",
+      "artistUrl": "https://apps.apple.com/us/developer/rollic-games/id1452111779",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/00/c4/d1/00c4d120-4f02-99ce-809a-9e20e72b92a9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/build-roads/id1502839598"
+    },
+    {
+      "artistName": "Voodoo",
+      "id": "1526064254",
+      "releaseDate": "2020-08-18",
+      "name": "Stair Run",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Inno Studio Limited",
+      "artistId": "714804730",
+      "artistUrl": "https://apps.apple.com/us/developer/voodoo/id714804730",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/15/04/d41504c9-37c5-5062-d381-db17493caf27/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/stair-run/id1526064254"
+    },
+    {
+      "artistName": "Nox(HongKong) Limited",
+      "id": "1522657393",
+      "releaseDate": "2020-07-09",
+      "name": "Brain Master!",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 NoxJoy",
+      "artistId": "1467860043",
+      "artistUrl": "https://apps.apple.com/us/developer/nox-hongkong-limited/id1467860043",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/88/33/9f/88339f5d-2250-bc7c-b312-31abcae1314b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/brain-master/id1522657393"
+    },
+    {
+      "artistName": "HIGGS TECHNOLOGY CO., LIMITED",
+      "id": "1502370160",
+      "releaseDate": "2020-03-20",
+      "name": "Tile Master - Classic Match",
+      "kind": "iosSoftware",
+      "copyright": "Copyright © Higgs. All Rights Reserved",
+      "artistId": "1105222132",
+      "artistUrl": "https://apps.apple.com/us/developer/higgs-technology-co-limited/id1105222132",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/15/48/60/15486042-46a3-e481-e2b0-24f11e6f569c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/tile-master-classic-match/id1502370160"
+    },
+    {
+      "artistName": "Playrix",
+      "id": "1195621598",
+      "releaseDate": "2017-09-19",
+      "name": "Homescapes",
+      "kind": "iosSoftware",
+      "copyright": "© 2017 Playrix",
+      "artistId": "1162116447",
+      "artistUrl": "https://apps.apple.com/us/developer/playrix/id1162116447",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/85/c6/e2/85c6e232-ea20-b149-7106-9ed5843d6643/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/homescapes/id1195621598"
+    },
+    {
+      "artistName": "RobTop Games AB",
+      "id": "698255242",
+      "releaseDate": "2013-09-12",
+      "name": "Geometry Dash Lite",
+      "kind": "iosSoftware",
+      "copyright": "© 2014 RobTop Games AB",
+      "artistId": "414027834",
+      "artistUrl": "https://apps.apple.com/us/developer/robtop-games-ab/id414027834",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1c/de/8e/1cde8e65-234f-e843-54a3-335d6e83076d/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id7011"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/geometry-dash-lite/id698255242"
+    },
+    {
+      "artistName": "Lion Studios",
+      "id": "1521190468",
+      "releaseDate": "2020-07-04",
+      "name": "Clue Hunter",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Lion Studios",
+      "artistId": "1362220666",
+      "artistUrl": "https://apps.apple.com/us/developer/lion-studios/id1362220666",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/4d/5c/5a/4d5c5ade-1dd7-304f-74b8-9db7219547ca/AppIcon-1x_U007emarketing-0-9-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/clue-hunter/id1521190468"
+    },
+    {
+      "artistName": "BoomHits sp. z o.o.",
+      "id": "1514152550",
+      "releaseDate": "2020-06-25",
+      "name": "Guns Master",
+      "kind": "iosSoftware",
+      "copyright": "© BoomHits sp. z o.o.",
+      "artistId": "1451606344",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/boomhits-sp-z-o-o/id1451606344",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/d9/11/c8d91177-c3b9-173a-e601-cefbaf08edaf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7016",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id7016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/guns-master/id1514152550"
+    },
+    {
+      "artistName": "PeopleFun, Inc.",
+      "id": "1207472156",
+      "releaseDate": "2017-06-14",
+      "name": "Wordscapes",
+      "kind": "iosSoftware",
+      "copyright": "© Copyright 2017 Peoplefun, Inc.",
+      "artistId": "517840947",
+      "artistUrl": "https://apps.apple.com/us/developer/peoplefun-inc/id517840947",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/84/72/4e/84724ed9-f6ad-8b8a-28b2-4d80286d4ef0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6017",
+          "name": "Education",
+          "url": "https://itunes.apple.com/us/genre/id6017"
+        },
+        {
+          "genreId": "7019",
+          "name": "Word",
+          "url": "https://itunes.apple.com/us/genre/id7019"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/wordscapes/id1207472156"
+    },
+    {
+      "artistName": "AppTout",
+      "id": "1531006893",
+      "releaseDate": "2020-09-10",
+      "name": "Stair Master!",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 AppTout LLC",
+      "artistId": "650869462",
+      "artistUrl": "https://apps.apple.com/us/developer/apptout/id650869462",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/5f/de/215fde72-2d84-99cb-2230-50a690510018/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7013",
+          "name": "Racing",
+          "url": "https://itunes.apple.com/us/genre/id7013"
+        },
+        {
+          "genreId": "7002",
+          "name": "Adventure",
+          "url": "https://itunes.apple.com/us/genre/id7002"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/stair-master/id1531006893"
+    },
+    {
+      "artistName": "ZPLAY (HK) TECHNOLOGY CO., LIMITED",
+      "id": "1524596005",
+      "releaseDate": "2020-07-23",
+      "name": "Skate Art 3D",
+      "kind": "iosSoftware",
+      "copyright": "© DoubleFun",
+      "artistId": "1301067319",
+      "artistUrl": "https://apps.apple.com/us/developer/zplay-hk-technology-co-limited/id1301067319",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b8/82/91/b882911e-e871-882d-80a3-e3236cce7bb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/skate-art-3d/id1524596005"
+    },
+    {
+      "artistName": "PlaySide",
+      "id": "1523254222",
+      "releaseDate": "2020-08-14",
+      "name": "Animal Warfare",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 PlaySide Studios",
+      "artistId": "551505830",
+      "artistUrl": "https://apps.apple.com/us/developer/playside/id551505830",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/27/22/0f/27220fc7-25f7-d243-e04f-e4d4b1f8b9b0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7017",
+          "name": "Strategy",
+          "url": "https://itunes.apple.com/us/genre/id7017"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/animal-warfare/id1523254222"
+    },
+    {
+      "artistName": "Good Job Games",
+      "id": "1473024868",
+      "releaseDate": "2019-07-24",
+      "name": "Color Fill 3D",
+      "kind": "iosSoftware",
+      "copyright": "© Good Job Games",
+      "artistId": "1191495496",
+      "artistUrl": "https://apps.apple.com/us/developer/good-job-games/id1191495496",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/46/45/0f/46450fad-61ed-4894-5be8-18b10fe3ad98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/color-fill-3d/id1473024868"
+    },
+    {
+      "artistName": "BARS STUDIOS",
+      "id": "1526168323",
+      "releaseDate": "2020-09-11",
+      "name": "Hey Girl!",
+      "kind": "iosSoftware",
+      "artistId": "1466627894",
+      "artistUrl": "https://apps.apple.com/us/developer/bars-studios/id1466627894",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/89/22/72/892272ff-bdb4-ffdb-917e-d6f3eb658080/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/hey-girl/id1526168323"
+    },
+    {
+      "artistName": "X-Flow",
+      "id": "1407852246",
+      "releaseDate": "2018-07-29",
+      "name": "Happy Color™ – Color by Number",
+      "kind": "iosSoftware",
+      "copyright": "© X-FLOW LTD",
+      "artistId": "1404509981",
+      "artistUrl": "https://apps.apple.com/us/developer/x-flow/id1404509981",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/51/6b/e2/516be29b-1e87-3788-2f63-dfec6b2b6573/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7004",
+          "name": "Board",
+          "url": "https://itunes.apple.com/us/genre/id7004"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/happy-color-color-by-number/id1407852246"
+    },
+    {
+      "artistName": "Tilting Point",
+      "id": "1433784188",
+      "releaseDate": "2020-05-12",
+      "name": "SpongeBob: Krusty Cook-Off",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Viacom International Inc.",
+      "artistId": "1095401785",
+      "artistUrl": "https://apps.apple.com/us/developer/tilting-point/id1095401785",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/27/65/84/27658401-5745-da91-c4c0-3c211ccb85cb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        },
+        {
+          "genreId": "7017",
+          "name": "Strategy",
+          "url": "https://itunes.apple.com/us/genre/id7017"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/spongebob-krusty-cook-off/id1433784188"
+    },
+    {
+      "artistName": "Gismart",
+      "id": "1528884485",
+      "releaseDate": "2020-08-27",
+      "name": "VIP Guard",
+      "kind": "iosSoftware",
+      "copyright": "© VIP Guard",
+      "artistId": "666830030",
+      "artistUrl": "https://apps.apple.com/us/developer/gismart/id666830030",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/7b/5b/95/7b5b953c-bb10-0ba4-6cfc-d65512a29e44/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/vip-guard/id1528884485"
+    },
+    {
+      "artistName": "Behaviour Interactive Inc.",
+      "id": "1452289752",
+      "releaseDate": "2020-04-15",
+      "name": "Dead by Daylight Mobile",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Behaviour Interactive Inc.",
+      "artistId": "425744034",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/behaviour-interactive-inc/id425744034",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/0f/80/00/0f8000ca-a0fb-dd54-a971-3e8477940edf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role Playing",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/dead-by-daylight-mobile/id1452289752"
+    },
+    {
+      "artistName": "NaturalMotion",
+      "id": "887947640",
+      "releaseDate": "2016-06-29",
+      "name": "CSR Racing 2 - #1 Racing Games",
+      "kind": "iosSoftware",
+      "copyright": "© (2015-2020) NaturalMotion Games Ltd",
+      "artistId": "330281898",
+      "artistUrl": "https://apps.apple.com/us/developer/naturalmotion/id330281898",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/31/ef/79/31ef7974-e4db-19ab-7f7c-4c7b586c13b2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7013",
+          "name": "Racing",
+          "url": "https://itunes.apple.com/us/genre/id7013"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/csr-racing-2-1-racing-games/id887947640"
+    },
+    {
+      "artistName": "Geisha Tokyo Inc.",
+      "id": "1434400630",
+      "releaseDate": "2018-09-01",
+      "name": "Traffic Run!",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Geisha Tokyo Inc.",
+      "artistId": "304321146",
+      "artistUrl": "https://apps.apple.com/us/developer/geisha-tokyo-inc/id304321146",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/4a/df/56/4adf56b1-a5e3-d89b-3464-03af870ce17c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/traffic-run/id1434400630"
+    },
+    {
+      "artistName": "Big Run Studios Inc.",
+      "id": "1464235676",
+      "releaseDate": "2019-10-04",
+      "name": "Blackout Bingo",
+      "kind": "iosSoftware",
+      "copyright": "© 2019 Big Run Studios",
+      "artistId": "1464235345",
+      "contentAdvisoryRating": "Explicit",
+      "artistUrl": "https://apps.apple.com/us/developer/big-run-studios-inc/id1464235345",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/1d/cf/4a/1dcf4ae4-c75d-4eb4-b283-461fa2eeaae7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7004",
+          "name": "Board",
+          "url": "https://itunes.apple.com/us/genre/id7004"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/blackout-bingo/id1464235676"
+    },
+    {
+      "artistName": "2K",
+      "id": "1519321527",
+      "releaseDate": "2020-08-24",
+      "name": "My NBA 2K21",
+      "kind": "iosSoftware",
+      "copyright": "© Published by 2K. 2K is a publishing label of Take-Two Interactive Software, Inc. All trademarks are the property of their respective owners.",
+      "artistId": "324563547",
+      "artistUrl": "https://apps.apple.com/us/developer/2k/id324563547",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/21/c3/f8/21c3f87a-730c-71d2-b39f-626b5c0a6dc4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6004",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id6004"
+        },
+        {
+          "genreId": "7016",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id7016"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/my-nba-2k21/id1519321527"
+    },
+    {
+      "artistName": "Reliance Big Entertainment UK Private Ltd",
+      "id": "659425518",
+      "releaseDate": "2013-10-17",
+      "name": "Real Steel World Robot Boxing",
+      "kind": "iosSoftware",
+      "copyright": "© \"Real Steel\" is a trademark and copyright of DreamWorks II Distribution Co., LLC All rights reserved.",
+      "artistId": "309001555",
+      "artistUrl": "https://apps.apple.com/us/developer/reliance-big-entertainment-uk-private-ltd/id309001555",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/09/46/f5/0946f57c-3317-b6f4-b187-012dffd6c433/AppIcon-0-0-1x_U007emarketing-0-0-0-9-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7016",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id7016"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/real-steel-world-robot-boxing/id659425518"
+    },
+    {
+      "artistName": "Voodoo",
+      "id": "1480638758",
+      "releaseDate": "2019-09-21",
+      "name": "Pokey Ball",
+      "kind": "iosSoftware",
+      "copyright": "© 2019 Lawson",
+      "artistId": "714804730",
+      "artistUrl": "https://apps.apple.com/us/developer/voodoo/id714804730",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a1/fa/13/a1fa13b3-87b2-d489-b24f-a49f1e7983b8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/pokey-ball/id1480638758"
+    },
+    {
+      "artistName": "Geisha Tokyo Inc.",
+      "id": "1518563997",
+      "releaseDate": "2020-06-16",
+      "name": "Earwax Clinic",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Geisha Tokyo Inc.",
+      "artistId": "304321146",
+      "artistUrl": "https://apps.apple.com/us/developer/geisha-tokyo-inc/id304321146",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/31/5c/ab/315cab90-0ae4-e24c-f1ac-ee652fc73aa7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/earwax-clinic/id1518563997"
+    },
+    {
+      "artistName": "Treastone",
+      "id": "1326046015",
+      "releaseDate": "2017-12-21",
+      "name": "Raft Survival - Ocean Nomad",
+      "kind": "iosSoftware",
+      "copyright": "© Treastone OU",
+      "artistId": "1326046014",
+      "artistUrl": "https://apps.apple.com/us/developer/treastone/id1326046014",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/1d/25/a91d250e-17a6-5da7-46c8-cb982a849a47/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/us/genre/id7015"
+        },
+        {
+          "genreId": "7002",
+          "name": "Adventure",
+          "url": "https://itunes.apple.com/us/genre/id7002"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/raft-survival-ocean-nomad/id1326046015"
+    },
+    {
+      "artistName": "SayGames LLC",
+      "id": "1524982746",
+      "releaseDate": "2020-07-26",
+      "name": "Brain Wash - Puzzle Mind Game",
+      "kind": "iosSoftware",
+      "copyright": "© Alexander Ilin",
+      "artistId": "1405039362",
+      "artistUrl": "https://apps.apple.com/us/developer/saygames-llc/id1405039362",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/22/06/d8/2206d827-822f-9c46-115a-5b33827d638e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7018",
+          "name": "Trivia",
+          "url": "https://itunes.apple.com/us/genre/id7018"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/brain-wash-puzzle-mind-game/id1524982746"
+    },
+    {
+      "artistName": "2K",
+      "id": "1252850847",
+      "releaseDate": "2018-11-19",
+      "name": "NBA 2K Mobile Basketball",
+      "kind": "iosSoftware",
+      "copyright": "© 2019. Published by 2K.  2K is a publishing label of Take-Two Interactive Software, Inc. All trademarks are the property of their respective owners. All rights reserved.",
+      "artistId": "324563547",
+      "artistUrl": "https://apps.apple.com/us/developer/2k/id324563547",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c1/f6/78/c1f6786e-26e9-c40f-2994-f48a6013ecfe/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7016",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id7016"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "6004",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id6004"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/nba-2k-mobile-basketball/id1252850847"
+    },
+    {
+      "artistName": "MATCHINGHAM GAMES LIMITED",
+      "id": "1513009813",
+      "releaseDate": "2020-05-19",
+      "name": "Braindom: Brain Games Test",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Matchingham Games Limited",
+      "artistId": "1513009812",
+      "artistUrl": "https://apps.apple.com/us/developer/matchingham-games-limited/id1513009812",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ad/f2/63/adf263bd-6547-5d61-554b-625c1ef0c70d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7019",
+          "name": "Word",
+          "url": "https://itunes.apple.com/us/genre/id7019"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/braindom-brain-games-test/id1513009813"
+    },
+    {
+      "artistName": "Playdots, Inc.",
+      "id": "880178264",
+      "releaseDate": "2014-05-29",
+      "name": "Two Dots",
+      "kind": "iosSoftware",
+      "copyright": "© Playdots Inc.",
+      "artistId": "948362568",
+      "artistUrl": "https://apps.apple.com/us/developer/playdots-inc/id948362568",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/06/b0/74/06b07415-4344-437c-6768-1ff04252d047/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "7004",
+          "name": "Board",
+          "url": "https://itunes.apple.com/us/genre/id7004"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/two-dots/id880178264"
+    },
+    {
+      "artistName": "Lion Studios",
+      "id": "1515233303",
+      "releaseDate": "2020-06-01",
+      "name": "Pull Him Out",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Lion Studios",
+      "artistId": "1362220666",
+      "artistUrl": "https://apps.apple.com/us/developer/lion-studios/id1362220666",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/34/17/f2/3417f26f-842e-41fb-0c05-8c20071f8b04/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/pull-him-out/id1515233303"
+    },
+    {
+      "artistName": "SUPERSONIC STUDIOS LTD",
+      "id": "1516852802",
+      "releaseDate": "2020-06-05",
+      "name": "Emoji Puzzle!",
+      "kind": "iosSoftware",
+      "copyright": "© Fun Velikan",
+      "artistId": "1499845738",
+      "artistUrl": "https://apps.apple.com/us/developer/supersonic-studios-ltd/id1499845738",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/31/33/1b/31331b98-f1f7-9f46-fcb5-650129cb550f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7012",
+          "name": "Puzzle",
+          "url": "https://itunes.apple.com/us/genre/id7012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/emoji-puzzle/id1516852802"
+    },
+    {
+      "artistName": "JPGroup",
+      "id": "1516798037",
+      "releaseDate": "2020-07-06",
+      "name": "Pocket Sniper!",
+      "kind": "iosSoftware",
+      "copyright": "© FunPlay",
+      "artistId": "1483186371",
+      "artistUrl": "https://apps.apple.com/us/developer/jpgroup/id1483186371",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/e1/00/1f/e1001f82-1bf9-d76e-03a3-4862d682218a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/pocket-sniper/id1516798037"
+    },
+    {
+      "artistName": "HIPSTER WHALE",
+      "id": "924373886",
+      "releaseDate": "2014-11-20",
+      "name": "Crossy Road",
+      "kind": "iosSoftware",
+      "copyright": "© 2014 Hipster Whale Pty Ltd",
+      "artistId": "924373885",
+      "artistUrl": "https://apps.apple.com/us/developer/hipster-whale/id924373885",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/2a/33/c3/2a33c322-4e8a-0a64-df82-31d0044f07a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        },
+        {
+          "genreId": "7009",
+          "name": "Family",
+          "url": "https://itunes.apple.com/us/genre/id7009"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/crossy-road/id924373886"
+    },
+    {
+      "artistName": "E TECHNOLOGY RECRUITMENT LTD",
+      "id": "1494877874",
+      "releaseDate": "2020-01-19",
+      "name": "Dice Royale",
+      "kind": "iosSoftware",
+      "copyright": "© 2020 Seriousfun Studio",
+      "artistId": "1494877873",
+      "artistUrl": "https://apps.apple.com/us/developer/e-technology-recruitment-ltd/id1494877873",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/69/8c/71/698c71dd-9530-ef52-6d81-9e58d235d169/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/dice-royale/id1494877874"
+    },
+    {
+      "artistName": "Supercell",
+      "id": "529479190",
+      "releaseDate": "2012-08-02",
+      "name": "Clash of Clans",
+      "kind": "iosSoftware",
+      "copyright": "© 2012 Supercell",
+      "artistId": "488106216",
+      "artistUrl": "https://apps.apple.com/us/developer/supercell/id488106216",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/36/2e/6a/362e6ad2-9fa3-35e8-17d6-5d77036c6c5f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "7017",
+          "name": "Strategy",
+          "url": "https://itunes.apple.com/us/genre/id7017"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/clash-of-clans/id529479190"
+    },
+    {
+      "artistName": "Nintendo Co., Ltd.",
+      "id": "1145275343",
+      "releaseDate": "2016-09-07",
+      "name": "Super Mario Run",
+      "kind": "iosSoftware",
+      "copyright": "© 2016 Nintendo Co., Ltd.",
+      "artistId": "1062496488",
+      "artistUrl": "https://apps.apple.com/us/developer/nintendo-co-ltd/id1062496488",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/5f/69/a9/5f69a9df-5e64-fed6-5959-08e61524435b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/200x200bb.png",
+      "genres": [
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7001",
+          "name": "Action",
+          "url": "https://itunes.apple.com/us/genre/id7001"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/super-mario-run/id1145275343"
+    }
+  ]
+}

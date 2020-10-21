@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "id": "4461eb89-fa46-472c-a241-29b421db292a",
+      "name": "Among Us!",
+      "artistName": "InnerSloth LLC",
+      "url": "https://apps.apple.com/us/app/among-us/id1351168404",
+      "gameType": "FREE",
+      "rating": 2
+    },
+    {
+      "id": "c53493a2-d57e-401e-8238-189b5400d3be",
+      "name": "Acrylic Nails!",
+      "artistName": "Crazy Labs",
+      "url": "https://apps.apple.com/us/app/acrylic-nails/id1526638009",
+      "gameType": "FREE",
+      "rating": 1
+    },
+    {
+      "id": "c53493a2-d57e-401e-8238-189b5400d3be",
+      "name": "Acrylic Nails!",
+      "artistName": "Crazy Labs",
+      "url": "https://apps.apple.com/us/app/acrylic-nails/id1526638009",
+      "gameType": "FREE",
+      "rating": 1
+    },
+    {
+      "id": "2cff2ea6-67d2-4fa2-b298-59d53529b71e",
+      "name": "Game of Sultans",
+      "artistName": "Mechanist",
+      "url": "https://apps.apple.com/us/app/game-of-sultans/id1372638631",
+      "gameType": "GROSSING",
+      "rating": 98
+    },
+    {
+      "id": "ba4c10f4-8f87-48dc-9c54-4c71e66c9b2c",
+      "name": "Age of Z Origins",
+      "artistName": "CAMEL GAMES LIMITED",
+      "url": "https://apps.apple.com/us/app/age-of-z-origins/id1376515087",
+      "gameType": "GROSSING",
+      "rating": 99
+    },
+    {
+      "id": "14d8ba97-a21d-4421-803f-4fbfe462dd7f",
+      "name": "Star Wars™: Galaxy of Heroes",
+      "artistName": "Electronic Arts",
+      "url": "https://apps.apple.com/us/app/star-wars-galaxy-of-heroes/id921022358",
+      "gameType": "GROSSING",
+      "rating": 100
+    },
+    {
+      "id": "7d33b02d-da65-4c17-9142-4d698bd40bd5",
+      "name": "RollerCoaster Tycoon® Classic",
+      "artistName": "Atari",
+      "url": "https://apps.apple.com/us/app/rollercoaster-tycoon-classic/id1113736426",
+      "gameType": "PAID",
+      "rating": 98
+    },
+    {
+      "id": "c870da29-129d-4cd3-9959-94fff0459ec3",
+      "name": "Bike Race Pro: Motor Racing",
+      "artistName": "Top Free Games",
+      "url": "https://apps.apple.com/us/app/bike-race-pro-motor-racing/id510461370",
+      "gameType": "PAID",
+      "rating": 99
+    },
+    {
+      "id": "d77b10b7-1736-4695-a7d5-41703e7b3b4c",
+      "name": "Survivalcraft 2",
+      "artistName": "Igor Kalicinski",
+      "url": "https://apps.apple.com/us/app/survivalcraft-2/id1185580782",
+      "gameType": "PAID",
+      "rating": 100
+    }
+  ]
+}

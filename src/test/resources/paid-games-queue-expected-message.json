@@ -1,1 +1,25 @@
-"(Body:'{\"games\":[{\"id\":\"8e8e25c3-860f-4631-8fb5-e4ab3ce1ea71\",\"name\":\"Heads Up! - Trivia on the go\",\"artistName\":\"Warner Bros.\",\"url\":\"https://apps.apple.com/us/app/heads-up-trivia-on-the-go/id623592465\",\"releaseDate\":{\"dayOfWeek\":\"THURSDAY\",\"dayOfYear\":122,\"nano\":0,\"year\":2013,\"monthValue\":5,\"dayOfMonth\":2,\"hour\":0,\"minute\":0,\"second\":0,\"month\":\"MAY\",\"chronology\":{\"id\":\"ISO\",\"calendarType\":\"iso8601\"}},\"gameType\":\"PAID\",\"createdAt\":{\"dayOfWeek\":\"MONDAY\",\"dayOfYear\":265,\"nano\":507000000,\"year\":2020,\"monthValue\":9,\"dayOfMonth\":21,\"hour\":6,\"minute\":55,\"second\":57,\"month\":\"SEPTEMBER\",\"chronology\":{\"id\":\"ISO\",\"calendarType\":\"iso8601\"}}}]}' MessageProperties [headers={}, contentType=text/plain, contentEncoding=UTF-8, contentLength=0, receivedDeliveryMode=PERSISTENT, priority=0, redelivered=false, receivedExchange=games-exchange, receivedRoutingKey=all-games-response-routing-key, deliveryTag=1, messageCount=0])\n"
+{
+  "games": [
+    {
+      "id": "01d44ab3-762f-4b52-88ad-da6ffc06f588",
+      "name": "Bloons TD 6",
+      "artistName": "Ninja Kiwi",
+      "url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766",
+      "gameType": "PAID"
+    },
+    {
+      "id": "ba9ea8c7-8709-47b7-919f-5f606fd24910",
+      "name": "RacerKing",
+      "artistName": "Small Beautiful",
+      "url": "https://apps.apple.com/us/app/racerking/id1528539994",
+      "gameType": "FREE"
+    },
+    {
+      "id": "ecc4b1d9-0063-4142-b7c0-9cc9152b82fd",
+      "name": "Monopoly",
+      "artistName": "Marmalade Game Studio",
+      "url": "https://apps.apple.com/us/app/monopoly/id1477966166",
+      "gameType": "PAID"
+    }
+  ]
+}

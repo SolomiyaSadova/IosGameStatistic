@@ -1,0 +1,39 @@
+{
+  "games": [
+    {
+      "id": "9d2af047-706d-4223-bbe0-634355076096",
+      "name": "6ix9ine Runner",
+      "artistName": "Gamejam Co.",
+      "url": "https://apps.apple.com/us/app/6ix9ine-runner/id1527057179",
+      "gameType": "FREE"
+    },
+    {
+      "id": "9d7e0a34-b151-49ee-8d36-555fb9f4a387",
+      "name": "RacerKing",
+      "artistName": "Small Beautiful",
+      "url": "https://apps.apple.com/us/app/racerking/id1528539994",
+      "gameType": "FREE"
+    },
+    {
+      "id": "f78ce274-c096-4784-ad50-5e2ada2345d6",
+      "name": "Color Roll 3D",
+      "artistName": "Good Job Games",
+      "url": "https://apps.apple.com/us/app/color-roll-3d/id1526814040",
+      "gameType": "FREE"
+    },
+    {
+      "id": "1c7f4fb8-f9eb-41f2-84d5-f9b6186b14d5",
+      "name": "Among Us!",
+      "artistName": "InnerSloth LLC",
+      "url": "https://apps.apple.com/us/app/among-us/id1351168404",
+      "gameType": "FREE"
+    },
+    {
+      "id": "5f06c1c6-0c01-4392-a3cc-9fe2fdb015e2",
+      "name": "VIP Guard",
+      "artistName": "Gismart",
+      "url": "https://apps.apple.com/us/app/vip-guard/id1528884485",
+      "gameType": "FREE"
+    }
+  ]
+}

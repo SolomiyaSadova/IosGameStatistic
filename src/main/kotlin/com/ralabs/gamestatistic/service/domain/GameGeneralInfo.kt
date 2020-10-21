@@ -1,8 +1,10 @@
 package com.ralabs.gamestatistic.service.domain
 
-data class GeneralGameInfo(
+import java.time.LocalDateTime
+
+data class GameGeneralInfo(
         val name: String,
         val artistName: String,
-        val rating: String,
-        val releaseDate: String
+        val rating: Int,
+        val releaseDate: LocalDateTime?
 )

@@ -1,12 +1,27 @@
 version: "2.1"
 services:
-  mongodb:
-    image: bitnami/mongodb:latest
+  mongo:
+    image: mongo:latest
+    network_mode: host
+    volumes:
+      - ./database:/data/db
     ports:
-      - 27017:27017
+      - "0.0.0.0:27017:27017"
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: rabbitmq
+#    volumes:
+#      - ./.docker/rabbitmq/etc/:/etc/rabbitmq/
+#      - ./.docker/rabbitmq/data/:/var/lib/rabbitmq/
+#      - ./.docker/rabbitmq/logs/:/var/log/rabbitmq/
+    ports:
+      - 5672:5672
+      - 15672:15672
+
   app:
     build: .
     ports:
       - 9093:9093
     depends_on:
-      - mongodb
+      - mongo

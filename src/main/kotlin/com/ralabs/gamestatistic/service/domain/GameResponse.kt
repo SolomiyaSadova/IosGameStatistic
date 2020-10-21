@@ -1,4 +1,4 @@
-package com.ralabs.gamestatistic.listeners.domain
+package com.ralabs.gamestatistic.service.domain
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import javax.validation.constraints.NotEmpty
@@ -14,3 +14,5 @@ data class GameResponse(
         @get:NotEmpty
         val releaseDate: String
 )
+
+

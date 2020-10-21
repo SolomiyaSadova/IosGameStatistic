@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "id": "d98467f6-0a44-4a66-94b9-35f1675e44e6",
+      "name": "YouTube: Watch, Listen, Stream",
+      "artistName": "Google LLC",
+      "url": "https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664",
+      "gameType": "GROSSING"
+    },
+    {
+      "id": "29488306-1323-4e1f-a179-20f71aeb7698",
+      "name": "Tinder - Dating & Make Friends",
+      "artistName": "Tinder Inc.",
+      "url": "https://apps.apple.com/us/app/tinder-dating-make-friends/id547702041",
+      "gameType": "GROSSING"
+    }
+  ]
+}

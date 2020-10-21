@@ -1,3 +1,8 @@
-package com.ralabs.gamestatistic.service.domain
+package com.ralabs.gamestatistic.listener.domain
 
-data class GameChartRequest(val limit: Long)
+import javax.validation.constraints.Min
+
+data class GameChartRequest(
+        @Min(0)
+        val limit: Long
+)

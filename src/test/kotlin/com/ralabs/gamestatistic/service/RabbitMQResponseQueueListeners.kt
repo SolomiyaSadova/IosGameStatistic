@@ -1,6 +1,5 @@
-package com.ralabs.gamestatistic.listeners
+package com.ralabs.gamestatistic.service
 
-import com.ralabs.gamestatistic.listener.RabbitMQMessageReceiver
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.amqp.rabbit.annotation.RabbitListener
@@ -25,6 +24,11 @@ class RabbitMQResponseQueueListeners {
 
     @RabbitListener(id = "grossing-games-response", queues = ["grossing-games-response-queue"])
     open fun handleGrossingGamesResponse(input: String): Unit {
+        log.info(" [x] Received msg  from grossing-games-response-queue: '$input'.")
+    }
+
+    @RabbitListener(id = "new-top-games", queues = ["new-top-games-queue"])
+    open fun handleNewTopGames(input: String): Unit {
         log.info(" [x] Received msg  from grossing-games-response-queue: '$input'.")
     }
 }

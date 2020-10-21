@@ -13,11 +13,10 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener
 import org.springframework.amqp.rabbit.core.RabbitTemplate
 import org.springframework.beans.factory.annotation.Value
 import reactor.core.publisher.Flux
-import reactor.core.publisher.Mono
 import java.util.stream.Collectors
 
 
-open class RabbitMQMessageReceiver(
+open class TopGamesRequestReceiver(
         private val gameService: GameService,
         private val rabbitTemplate: RabbitTemplate,
         private val objectMapper: ObjectMapper
@@ -38,7 +37,7 @@ open class RabbitMQMessageReceiver(
     @Value("\${rabbitmq.routingkey.grossing.games.response}")
     lateinit var grossingGamesResponseRoutingKey: String
 
-    private val log: Logger = LoggerFactory.getLogger(RabbitMQMessageReceiver::class.java)
+    private val log: Logger = LoggerFactory.getLogger(TopGamesRequestReceiver::class.java)
 
     @RabbitListener(id = "all-games-request", queues = ["all-games-request-queue"])
     open fun handleGamesRequest(input: String): Unit {

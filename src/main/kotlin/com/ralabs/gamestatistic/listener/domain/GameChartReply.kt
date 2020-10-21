@@ -1,4 +1,7 @@
 package com.ralabs.gamestatistic.listener.domain
 
-class GameChartReply {
-}
+import com.ralabs.gamestatistic.models.Game
+
+data class GameChartReply (
+    val games: List<Game>
+)

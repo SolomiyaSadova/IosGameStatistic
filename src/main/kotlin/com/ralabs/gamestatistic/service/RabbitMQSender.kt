@@ -1,4 +1,4 @@
-package com.ralabs.gamestatistic.listeners
+package com.ralabs.gamestatistic.service
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.ralabs.gamestatistic.listener.domain.GameChartRequest

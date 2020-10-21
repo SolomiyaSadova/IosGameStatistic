@@ -1,4 +1,7 @@
 package com.ralabs.gamestatistic.domain
 
-class GameMessageResponse {
-}
+import com.ralabs.gamestatistic.models.Game
+
+data class GameMessageResponse (
+        val results: List<Game>
+)
