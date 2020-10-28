@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "id": "01d44ab3-762f-4b52-88ad-da6ffc06f588",
+      "name": "Bloons TD 6",
+      "artistName": "Ninja Kiwi",
+      "url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766",
+      "gameType": "PAID"
+    },
+    {
+      "id": "ba9ea8c7-8709-47b7-919f-5f606fd24910",
+      "name": "RacerKing",
+      "artistName": "Small Beautiful",
+      "url": "https://apps.apple.com/us/app/racerking/id1528539994",
+      "gameType": "FREE"
+    },
+    {
+      "id": "ecc4b1d9-0063-4142-b7c0-9cc9152b82fd",
+      "name": "Monopoly",
+      "artistName": "Marmalade Game Studio",
+      "url": "https://apps.apple.com/us/app/monopoly/id1477966166",
+      "gameType": "PAID"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "games": [
+    {
+      "id": "7159c307-aeca-4357-9622-ac62cfc288de",
+      "name": "Bloons TD 6",
+      "artistName": "Ninja Kiwi",
+      "url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766",
+      "releaseDate": {
+        "dayOfWeek": "THURSDAY",
+        "dayOfYear": 165,
+        "nano": 0,
+        "year": 2018,
+        "monthValue": 6,
+        "dayOfMonth": 14,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "month": "JUNE",
+        "chronology": {
+          "id": "ISO",
+          "calendarType": "iso8601"
+        }
+      },
+      "gameType": "PAID",
+      "createdAt": {
+        "dayOfWeek": "TUESDAY",
+        "dayOfYear": 266,
+        "nano": 960000000,
+        "year": 2020,
+        "monthValue": 9,
+        "dayOfMonth": 22,
+        "hour": 12,
+        "minute": 5,
+        "second": 36,
+        "month": "SEPTEMBER",
+        "chronology": {
+          "id": "ISO",
+          "calendarType": "iso8601"
+        }
+      }
+    },
+    {
+      "id": "d741c75a-d783-440a-b6a0-a890275c136c",
+      "name": "Plague Inc.",
+      "artistName": "Ndemic Creations",
+      "url": "https://apps.apple.com/us/app/plague-inc/id525818839",
+      "releaseDate": {
+        "dayOfWeek": "SATURDAY",
+        "dayOfYear": 147,
+        "nano": 0,
+        "year": 2012,
+        "monthValue": 5,
+        "dayOfMonth": 26,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "month": "MAY",
+        "chronology": {
+          "id": "ISO",
+          "calendarType": "iso8601"
+        }
+      },
+      "gameType": "PAID",
+      "createdAt": {
+        "dayOfWeek": "TUESDAY",
+        "dayOfYear": 266,
+        "nano": 960000000,
+        "year": 2020,
+        "monthValue": 9,
+        "dayOfMonth": 22,
+        "hour": 12,
+        "minute": 5,
+        "second": 36,
+        "month": "SEPTEMBER",
+        "chronology": {
+          "id": "ISO",
+          "calendarType": "iso8601"
+        }
+      }
+    },
+    {
+      "id": "d24765ba-dc7e-49fc-9bd4-1347ea645366",
+      "name": "Monopoly",
+      "artistName": "Marmalade Game Studio",
+      "url": "https://apps.apple.com/us/app/monopoly/id1477966166",
+      "releaseDate": {
+        "dayOfWeek": "WEDNESDAY",
+        "dayOfYear": 338,
+        "nano": 0,
+        "year": 2019,
+        "monthValue": 12,
+        "dayOfMonth": 4,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "month": "DECEMBER",
+        "chronology": {
+          "id": "ISO",
+          "calendarType": "iso8601"
+        }
+      },
+      "gameType": "PAID",
+      "createdAt": {
+        "dayOfWeek": "TUESDAY",
+        "dayOfYear": 266,
+        "nano": 960000000,
+        "year": 2020,
+        "monthValue": 9,
+        "dayOfMonth": 22,
+        "hour": 12,
+        "minute": 5,
+        "second": 36,
+        "month": "SEPTEMBER",
+        "chronology": {
+          "id": "ISO",
+          "calendarType": "iso8601"
+        }
+      }
+    }
+  ]
+}
